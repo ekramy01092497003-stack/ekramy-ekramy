@@ -1,0 +1,6 @@
+{
+  "name": "PartyLive - Live Voice Rooms & Social",
+  "description": "Interactive Arabic live voice party chat rooms, streaming, social feed, and Compose-matched navigation bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
